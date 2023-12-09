@@ -1,2 +1,2 @@
 # EDA_shopping_trends
-Data analysis for shopping trends using python, local postgresql database and powerBI
+Data analysis for shopping trends using python and powerBI
